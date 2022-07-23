@@ -1,3 +1,4 @@
+from decouple import config
 """
 Django settings for password_generator project.
 
